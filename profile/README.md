@@ -1,6 +1,6 @@
-![Techrest](../assets/banner.png)
+![Codewynn](../assets/banner-github.png)
 
-<h1>Techrest</h1>
-<p>Desenvolvemos soluções de software inovadoras, impulsionando a eficiência e o sucesso do seu negócio.</p>
+<h1>Codewynn</h1>
+<p>Transformando ideias em soluções digitais e trazendo soluções eficientes.</p>
 
-[Clique aqui para acessar nosso site.](https://techrest.com.br)
+[Clique aqui para acessar nosso site.](https://codewynn.com)
